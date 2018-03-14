@@ -1,4 +1,4 @@
-package indigo.in.co.daggerApp.dagger.module;
+package extreme.in.co.daggerApp.dagger.module;
 
 import android.app.Application;
 
@@ -8,9 +8,8 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by Belal on 12/2/2017.
+ * Created by ravdesai on 14-03-2018.
  */
-
 
 @Module
 public class AppModule {

@@ -1,4 +1,4 @@
-package indigo.in.co.daggerApp.dagger.module;
+package extreme.in.co.daggerApp.dagger.module;
 
 import android.app.Application;
 
@@ -15,9 +15,11 @@ import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+
 /**
- * Created by Belal on 12/2/2017.
+ * Created by ravdesai on 14-03-2018.
  */
+
 
 @Module
 public class ApiModule {

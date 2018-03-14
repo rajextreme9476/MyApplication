@@ -1,7 +1,6 @@
-package indigo.in.co.daggerApp.ui.adapter;
+package extreme.in.co.daggerApp.ui.adapter;
 
 import android.content.Context;
-import android.media.Image;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,8 +13,8 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.List;
 
-import indigo.in.co.daggerApp.ui.model.GetUserModel;
-import indigo.in.co.daggerApp.R;
+import extreme.in.co.daggerApp.ui.model.GetUserModel;
+import extreme.in.co.daggerApp.R;
 
 public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder>
 {

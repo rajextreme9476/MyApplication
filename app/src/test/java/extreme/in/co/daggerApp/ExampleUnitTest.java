@@ -1,4 +1,4 @@
-package indigo.in.co.daggerApp;
+package extreme.in.co.daggerApp;
 
 import org.junit.Test;
 

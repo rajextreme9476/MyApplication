@@ -1,4 +1,4 @@
-package indigo.in.co.daggerApp;
+package extreme.in.co.daggerApp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

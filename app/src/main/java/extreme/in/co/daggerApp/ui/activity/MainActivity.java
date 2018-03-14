@@ -1,4 +1,4 @@
-package indigo.in.co.daggerApp.ui.activity;
+package extreme.in.co.daggerApp.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,11 +11,11 @@ import java.util.List;
 
 import javax.inject.Inject;
 
-import indigo.in.co.daggerApp.ui.model.GetUserModel;
-import indigo.in.co.daggerApp.application.DaggerApp;
-import indigo.in.co.daggerApp.R;
-import indigo.in.co.daggerApp.rest.ApiInterface;
-import indigo.in.co.daggerApp.ui.adapter.UserAdapter;
+import extreme.in.co.daggerApp.ui.model.GetUserModel;
+import extreme.in.co.daggerApp.application.DaggerApp;
+import extreme.in.co.daggerApp.R;
+import extreme.in.co.daggerApp.rest.ApiInterface;
+import extreme.in.co.daggerApp.ui.adapter.UserAdapter;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

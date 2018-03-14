@@ -1,7 +1,7 @@
-package indigo.in.co.daggerApp.rest;
+package extreme.in.co.daggerApp.rest;
 
 
-import indigo.in.co.daggerApp.ui.model.GetUserModel;
+import extreme.in.co.daggerApp.ui.model.GetUserModel;
 import retrofit2.Call;
 import retrofit2.http.GET;
 
